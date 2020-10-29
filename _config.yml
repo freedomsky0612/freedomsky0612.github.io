@@ -1,0 +1,32 @@
+# Your Website Title
+title: freedomSky
+
+# Your Website URL
+url: 'http://your-url.github.io'
+
+# Leave it default
+baseurl: '' 
+
+# Google Analytics
+ga_index: UA-XXXXXXXX-X
+ga_cv: UA-XXXXXXXX-X
+
+# Index page and Profile Information
+name: freedomSky
+tagline: javaScript, html, css, nodeJS
+pic: head.jpg # profile.png can be found at /assets/images/profile.png
+description: '攻城狮，搬砖中........'
+description_tiny: 'Home: +60-4 | Studied: +1-408 | Work: +60-3'
+email: 15236246672@163.com
+website: freedomsky0612.github.io # do not add http://
+linkedin: realmelvinchng
+github: freedomsky0612
+# twitter: '@realmelvinchng'
+
+# Files or folders to be excluded
+exclude: [gitbook_source_code/]
+
+# All the plugins for Jekyll
+plugins:
+  - jekyll-sitemap
+  - wdm
