@@ -2,7 +2,7 @@
 title: freedomSky
 
 # Your Website URL
-url: 'http://your-url.github.io'
+url: 'http://freedomsky0612.github.io'
 
 # Leave it default
 baseurl: '' 
@@ -13,13 +13,13 @@ ga_cv: UA-XXXXXXXX-X
 
 # Index page and Profile Information
 name: freedomSky
-tagline: javaScript, html, css, nodeJS
+tagline: javaScript, html, css, nodeJS, canvas, eCharts
 pic: head.jpg # profile.png can be found at /assets/images/profile.png
 description: '攻城狮，搬砖中........'
-description_tiny: 'Home: +60-4 | Studied: +1-408 | Work: +60-3'
+description_tiny: '人活一世，风雪路途遥，我们只追求一种成功，就是按喜欢的方式过完此生。'
 email: 15236246672@163.com
 website: freedomsky0612.github.io # do not add http://
-linkedin: realmelvinchng
+# linkedin: realmelvinchng
 github: freedomsky0612
 # twitter: '@realmelvinchng'
 
